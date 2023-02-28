@@ -1,0 +1,462 @@
+name,club,age,position,position_cat,market_value,page_views,fpl_value,fpl_sel,fpl_points,region,nationality,club_id,big_club,new_signing
+Alexis Sanchez,Arsenal,28,LW,1,65,4329,12,17.10%,264,3,Chile,1,YES,NO
+Mesut Ozil,Arsenal,28,AM,1,50,4395,9.5,5.60%,167,2,Germany,1,YES,NO
+Petr Cech,Arsenal,35,GK,4,7,1529,5.5,5.90%,134,2,Czech Republic,1,YES,NO
+Theo Walcott,Arsenal,28,RW,1,20,2393,7.5,1.50%,122,1,England,1,YES,NO
+Laurent Koscielny,Arsenal,31,CB,3,22,912,6,0.70%,121,2,France,1,YES,NO
+Hector Bellerin,Arsenal,22,RB,3,30,1675,6,13.70%,119,2,Spain,1,YES,NO
+Olivier Giroud,Arsenal,30,CF,1,22,2230,8.5,2.50%,116,2,France,1,YES,NO
+Nacho Monreal,Arsenal,31,LB,3,13,555,5.5,4.70%,115,2,Spain,1,YES,NO
+Shkodran Mustafi,Arsenal,25,CB,3,30,1877,5.5,4.00%,90,2,Germany,1,YES,YES
+Alex Iwobi,Arsenal,21,LW,1,10,1812,5.5,1.00%,89,4,Nigeria,1,YES,NO
+Granit Xhaka,Arsenal,24,DM,2,35,1815,5.5,2.00%,85,2,Switzerland,1,YES,NO
+Alex Oxlade-Chamberlain,Arsenal,23,RM,2,22,1519,6,1.80%,83,1,England,1,YES,NO
+Jack Wilshere,Arsenal,25,CM,2,18,1759,5.5,0.00%,61,1,England,1,YES,NO
+Aaron Ramsey,Arsenal,26,CM,2,35,1040,7,5.10%,56,1,Wales,1,YES,NO
+Francis Coquelin,Arsenal,26,DM,2,15,549,4.5,1.70%,52,2,France,1,YES,NO
+Gabriel Paulista,Arsenal,26,CB,3,13,552,5,0.10%,45,3,Brazil,1,YES,NO
+Kieran Gibbs,Arsenal,27,LB,3,10,489,5,0.50%,45,1,England,1,YES,NO
+Santi Cazorla,Arsenal,32,CM,2,12,943,7,0.10%,38,2,Spain,1,YES,NO
+Danny Welbeck,Arsenal,26,CF,1,15,1521,7.5,0.50%,37,1,England,1,YES,NO
+Rob Holding,Arsenal,21,CB,3,7,666,5,1.70%,32,1,England,1,YES,YES
+Mohamed Elneny,Arsenal,25,DM,2,10,683,4.5,0.80%,26,4,Egypt,1,YES,NO
+Lucas Perez,Arsenal,28,CF,1,15,2055,7.5,0.10%,20,2,Spain,1,YES,YES
+Emiliano Martinez,Arsenal,24,GK,4,1,372,4,4.20%,8,3,Argentina,1,YES,NO
+David Ospina,Arsenal,28,GK,4,7,544,5,0.20%,2,3,Colombia,1,YES,NO
+Carl Jenkinson,Arsenal,25,RB,3,5,561,4.5,0.40%,2,1,England,1,YES,NO
+Per Mertesacker,Arsenal,32,CB,3,6,702,5,1.00%,1,2,Germany,1,YES,NO
+Sead Kolasinac,Arsenal,24,LB,3,15,618,6,6.90%,0,2,Bosnia,1,YES,NO
+Alexandre Lacazette,Arsenal,26,CF,1,40,1183,10.5,26.50%,0,2,France,1,YES,NO
+Joshua King,Bournemouth,25,SS,1,8,997,7.5,10.40%,178,2,Norway,2,NO,NO
+Jermain Defoe,Bournemouth,34,CF,1,5,3213,8,15.00%,166,1,England,2,NO,NO
+Charlie Daniels,Bournemouth,30,LB,3,3,185,5,19.80%,134,1,England,2,NO,NO
+Artur Boruc,Bournemouth,37,GK,4,1,436,4.5,6.90%,120,2,Poland,2,NO,NO
+Steve Cook,Bournemouth,26,CB,3,5,184,5,2.00%,112,1,England,2,NO,NO
+Junior Stanislas,Bournemouth,27,LW,1,4.5,315,6,0.60%,107,1,England,2,NO,NO
+Adam Smith,Bournemouth,26,RB,3,5,200,5,0.90%,104,1,England,2,NO,NO
+Ryan Fraser,Bournemouth,23,LW,1,5,516,5.5,1.60%,100,2,Scotland,2,NO,NO
+Simon Francis,Bournemouth,32,RB,3,2.5,167,4.5,4.00%,89,1,England,2,NO,NO
+Benik Afobe,Bournemouth,24,CF,1,10,528,6,0.70%,88,4,Congo DR,2,NO,NO
+Harry Arter,Bournemouth,27,CM,2,2.5,666,5,0.90%,84,2,Ireland,2,NO,NO
+Marc Pugh,Bournemouth,30,LW,1,2,140,5,0.10%,64,1,England,2,NO,NO
+Callum Wilson,Bournemouth,25,CF,1,10,337,6,0.20%,63,1,England,2,NO,NO
+Nathan Ake,Bournemouth,22,CB,3,8,1274,5,11.50%,55,2,Netherlands,2,NO,NO
+Dan Gosling,Bournemouth,27,CM,2,3,184,5,0.10%,49,1,England,2,NO,NO
+Andrew Surman,Bournemouth,30,CM,2,2,154,4.5,1.10%,44,1,England,2,NO,NO
+Jordon Ibe,Bournemouth,21,RW,1,8,504,5,0.40%,36,1,England,2,NO,NO
+Lewis Cook,Bournemouth,20,CM,2,6,243,4.5,0.80%,17,1,England,2,NO,NO
+Lys Mousset,Bournemouth,21,CF,1,4,131,5,0.10%,14,2,France,2,NO,NO
+Adam Federici,Bournemouth,32,GK,4,1,126,4,1.50%,8,4,Australia,2,NO,NO
+Max Gradel,Bournemouth,29,LW,1,7,287,5,0.10%,8,4,Cote d'Ivoire,2,NO,NO
+Tyrone Mings,Bournemouth,24,CB,3,5,422,4.5,0.40%,4,1,England,2,NO,NO
+Brad Smith,Bournemouth,23,LB,3,2,297,4,3.30%,4,4,Australia,2,NO,NO
+Asmir Begovic,Bournemouth,30,GK,4,8,697,4.5,9.30%,2,2,Bosnia,2,NO,NO
+Niki Maenpaa,Brighton+and+Hove,32,GK,4,0.25,103,4,2.10%,0,2,Finland,3,NO,NO
+Mathew Ryan,Brighton+and+Hove,25,GK,4,3.5,344,4.5,1.50%,0,4,Australia,3,NO,NO
+Lewis Dunk,Brighton+and+Hove,25,CB,3,5,140,4.5,4.10%,0,1,England,3,NO,NO
+Shane Duffy,Brighton+and+Hove,25,CB,3,5,243,4.5,0.60%,0,2,Ireland,3,NO,NO
+Uwe Hunemeier,Brighton+and+Hove,31,CB,3,1.5,88,4,8.00%,0,2,Germany,3,NO,NO
+Bruno,Brighton+and+Hove,36,RB,1,0.5,215,4.5,0.40%,0,3,Argentina,3,NO,NO
+Gaetan Bong,Brighton+and+Hove,29,LB,3,1.5,97,4.5,0.20%,0,4,Cameroon,3,NO,NO
+Liam Rosenior,Brighton+and+Hove,33,RB,3,1,132,4,3.20%,0,1,England,3,NO,NO
+Connor Goldson,Brighton+and+Hove,24,CB,3,0.75,52,4,0.80%,0,1,England,3,NO,NO
+Markus Suttner,Brighton+and+Hove,30,LB,3,2,23,4.5,0.20%,0,2,Austria,3,NO,NO
+Anthony Knockaert,Brighton+and+Hove,25,RW,1,8,726,6,4.80%,0,2,France,3,NO,NO
+Dale Stephens,Brighton+and+Hove,27,CM,2,5,122,4.5,0.90%,0,1,England,3,NO,NO
+Beram Kayal,Brighton+and+Hove,29,CM,2,1.25,167,4.5,0.30%,0,4,Israel,3,NO,NO
+Steve Sidwell,Brighton+and+Hove,34,CM,2,1,461,4.5,0.60%,0,1,England,3,NO,NO
+Solly March,Brighton+and+Hove,23,RM,2,0.5,139,5,0.20%,0,1,England,3,NO,NO
+Jiri Skalak,Brighton+and+Hove,25,LW,1,1.5,87,5,0.10%,0,2,Czech Republic,3,NO,NO
+Oliver Norwood,Brighton+and+Hove,26,CM,2,2.5,134,4.5,0.20%,0,2,Northern Ireland,3,NO,NO
+Jamie Murphy,Brighton+and+Hove,27,LW,1,1.75,114,5,0.10%,0,2,Scotland,3,NO,NO
+Pascal Gross,Brighton+and+Hove,26,CM,2,4,22,5.5,0.30%,0,2,Germany,3,NO,NO
+Glenn Murray,Brighton+and+Hove,33,CF,1,3.5,496,6,1.30%,0,1,England,3,NO,NO
+Tomer Hemed,Brighton+and+Hove,30,CF,1,2.5,253,5,0.40%,0,4,Israel,3,NO,NO
+Sam Baldock,Brighton+and+Hove,28,CF,1,3,204,5,0.20%,0,1,England,3,NO,NO
+Tom Heaton,Burnley,31,GK,4,4,717,5,13.50%,149,1,England,4,NO,NO
+Sam Vokes,Burnley,27,CF,1,4.5,290,6,2.90%,121,2,Wales,4,NO,NO
+Andre Gray,Burnley,26,CF,1,10,687,6.5,1.70%,108,1,England,4,NO,NO
+Ben Mee,Burnley,27,CB,3,6,166,4.5,13.70%,94,1,England,4,NO,NO
+Stephen Ward,Burnley,31,LB,3,1.5,152,4.5,2.50%,91,2,Ireland,4,NO,NO
+Matthew Lowton,Burnley,28,RB,3,2.5,121,4.5,1.20%,90,1,England,4,NO,NO
+Ashley Barnes,Burnley,27,CF,1,2.5,287,5.5,1.20%,81,1,England,4,NO,NO
+Jeff Hendrick,Burnley,25,CM,2,6,352,5.5,0.20%,76,2,Ireland,4,NO,YES
+Scott Arfield,Burnley,28,LM,2,3,304,5,0.10%,69,3,Canada,4,NO,NO
+Steven Defour,Burnley,29,CM,2,6,336,5.5,0.20%,54,2,Belgium,4,NO,YES
+Dean Marney,Burnley,33,CM,2,1,171,4.5,0.00%,51,1,England,4,NO,NO
+Jack Cork,Burnley,28,DM,2,5,204,4.5,0.50%,50,1,England,4,NO,NO
+Johann Berg Gudmundsson,Burnley,26,RW,1,2.5,180,5,0.10%,47,2,Iceland,4,NO,YES
+Robbie Brady,Burnley,25,LM,2,10,614,5.5,0.40%,39,2,Ireland,4,NO,NO
+James Tarkowski,Burnley,24,CB,3,2,116,4.5,0.10%,23,1,England,4,NO,NO
+Ashley Westwood,Burnley,27,DM,2,4,161,4.5,0.10%,13,1,England,4,NO,NO
+Kevin Long,Burnley,26,CB,3,0.5,68,4,1.70%,3,2,Ireland,4,NO,NO
+Matthew Taylor,Burnley,35,LM,2,0.25,255,4.5,0.40%,0,1,England,4,NO,NO
+Eden Hazard,Chelsea,26,LW,1,75,4220,10.5,2.30%,224,2,Belgium,5,YES,NO
+Diego Costa,Chelsea,28,CF,1,50,4454,10,3.00%,196,2,Spain,5,YES,NO
+Gary Cahill,Chelsea,31,CB,3,16,1420,6.5,12.00%,178,1,England,5,YES,NO
+Marcos Alonso Mendoza,Chelsea,26,LB,3,25,3069,7,12.40%,177,2,Spain,5,YES,YES
+Cesar Azpilicueta,Chelsea,27,RB,3,30,869,6.5,12.30%,170,2,Spain,5,YES,NO
+Pedro,Chelsea,29,RW,1,28,1500,8,7.80%,162,2,Spain,5,YES,NO
+Thibaut Courtois,Chelsea,25,GK,4,40,1260,5.5,18.50%,141,2,Belgium,5,YES,NO
+David Luiz,Chelsea,30,CB,3,30,2745,6,20.30%,132,3,Brazil,5,YES,NO
+Cesc Fabregas,Chelsea,30,CM,2,35,2378,7,7.50%,121,2,Spain,5,YES,NO
+Willian,Chelsea,28,RW,1,32,1165,7,9.00%,114,3,Brazil,5,YES,NO
+Victor Moses,Chelsea,26,RM,2,18,2537,6.5,0.20%,105,4,Nigeria,5,YES,NO
+Nemanja Matic,Chelsea,28,DM,2,35,892,5,5.00%,105,2,Serbia,5,YES,NO
+N%27Golo Kante,Chelsea,26,DM,2,50,4042,5,13.80%,83,2,France,5,YES,YES
+Willy Caballero,Chelsea,35,GK,4,1.5,542,5,0.20%,64,3,Argentina,5,YES,NO
+Michy Batshuayi,Chelsea,23,CF,1,25,1162,8.5,1.60%,48,2,Belgium,5,YES,YES
+Kurt Zouma,Chelsea,22,CB,3,15,723,5.5,0.80%,15,2,France,5,YES,NO
+Kenedy,Chelsea,21,LB,3,7,566,5,0.10%,3,3,Brazil,5,YES,NO
+Eduardo Carvalho,Chelsea,34,LW,1,0.05,467,5,0.10%,0,2,Portugal,5,YES,YES
+Antonio Rudiger,Chelsea,24,CB,3,25,454,6,6.40%,0,2,Germany,5,YES,NO
+Tiemoue Bakayoko,Chelsea,22,DM,2,16,1011,5,1.60%,0,2,France,5,YES,NO
+Wilfried Zaha,Crystal+Palace,24,RW,1,18,1709,7,20.90%,149,4,Cote d'Ivoire,6,NO,NO
+Christian Benteke,Crystal+Palace,26,CF,1,28,1661,8,10.50%,136,2,Belgium,6,NO,YES
+Andros Townsend,Crystal+Palace,26,RW,1,12,693,6,2.70%,116,1,England,6,NO,YES
+Patrick van Aanholt,Crystal+Palace,26,LB,3,9,524,5.5,4.20%,98,2,Netherlands,6,NO,NO
+James McArthur,Crystal+Palace,29,CM,2,7,216,4.5,10.90%,93,2,Scotland,6,NO,NO
+Wayne Hennessey,Crystal+Palace,30,GK,4,4,242,4.5,2.10%,92,2,Wales,6,NO,NO
+Jason Puncheon,Crystal+Palace,31,AM,1,5.5,427,5,1.20%,92,1,England,6,NO,NO
+Yohan Cabaye,Crystal+Palace,31,CM,2,15,456,5.5,1.40%,91,2,France,6,NO,NO
+Joel Ward,Crystal+Palace,27,RB,3,5,154,5,0.60%,86,1,England,6,NO,NO
+James Tomkins,Crystal+Palace,28,CB,3,7,208,4.5,2.00%,75,1,England,6,NO,YES
+Scott Dann,Crystal+Palace,30,CB,3,5,217,5,1.10%,61,1,England,6,NO,NO
+Damien Delaney,Crystal+Palace,36,CB,3,1,195,4.5,0.60%,51,2,Ireland,6,NO,NO
+Jeffrey Schlupp,Crystal+Palace,24,LB,3,8,385,5,0.30%,47,4,Ghana,6,NO,NO
+Martin Kelly,Crystal+Palace,27,RB,3,3,210,4.5,0.30%,46,1,England,6,NO,NO
+Luka Milivojevic,Crystal+Palace,26,DM,2,10,407,5,0.20%,42,2,Serbia,6,NO,NO
+Lee Chung-yong,Crystal+Palace,29,RW,1,1.5,327,4.5,0.10%,24,4,South Korea,6,NO,NO
+Connor Wickham,Crystal+Palace,24,CF,1,6,248,5.5,0.00%,18,1,England,6,NO,NO
+Bakary Sako,Crystal+Palace,29,LW,1,6,226,5,0.10%,7,4,Mali,6,NO,NO
+Pape Souare,Crystal+Palace,27,LB,3,6,186,4.5,0.00%,6,4,Senegal,6,NO,NO
+Ruben Loftus-Cheek,Crystal+Palace,21,CM,2,5,685,4.5,16.40%,6,1,England,6,NO,NO
+Julian Speroni,Crystal+Palace,38,GK,4,0.25,188,4,2.00%,0,3,Argentina,6,NO,NO
+Ross Barkley,Everton,23,AM,1,25,1413,7.5,0.70%,144,1,England,7,NO,NO
+Leighton Baines,Everton,32,LB,3,12,491,6,10.00%,135,1,England,7,NO,NO
+Seamus Coleman,Everton,28,RB,3,17,843,6.5,0.40%,133,2,Ireland,7,NO,NO
+Ashley Williams,Everton,32,CB,3,8,599,5.5,4.70%,127,2,Wales,7,NO,YES
+Kevin Mirallas,Everton,29,RW,1,13,417,6.5,3.20%,119,2,Belgium,7,NO,NO
+Michael Keane,Everton,24,CB,3,18,1362,5.5,13.10%,113,1,England,7,NO,NO
+Phil Jagielka,Everton,34,CB,3,2,566,5,6.30%,104,1,England,7,NO,NO
+Jordan Pickford,Everton,23,GK,4,15,719,5,14.60%,102,1,England,7,NO,NO
+Joel Robles,Everton,27,GK,4,5,304,4.5,0.40%,89,2,Spain,7,NO,NO
+Idrissa Gueye,Everton,27,CM,2,18,705,5,1.30%,80,4,Senegal,7,NO,YES
+Wayne Rooney,Everton,31,SS,1,15,7664,7.5,20.90%,76,1,England,7,NO,NO
+Ramiro Funes Mori,Everton,26,CB,3,12,460,5,0.10%,69,3,Argentina,7,NO,NO
+Maarten Stekelenburg,Everton,34,GK,4,2,623,4.5,0.30%,68,2,Netherlands,7,NO,YES
+Gareth Barry,Everton,36,DM,2,1.5,1331,4.5,1.70%,68,1,England,7,NO,NO
+Tom Davies,Everton,19,CM,2,8,1354,5.5,1.00%,63,1,England,7,NO,NO
+Mason Holgate,Everton,20,CB,3,5,344,4.5,2.90%,54,1,England,7,NO,NO
+Yannick Bolasie,Everton,28,LW,1,20,896,6.5,0.20%,45,4,Congo DR,7,NO,YES
+Morgan Schneiderlin,Everton,27,DM,2,22,1272,5,0.90%,37,2,France,7,NO,YES
+Cuco Martina,Everton,27,RB,3,2,232,4.5,0.40%,31,2,Curacao,7,NO,NO
+James McCarthy,Everton,26,CM,2,15,306,5,0.10%,23,2,Ireland,7,NO,NO
+Aaron Lennon,Everton,30,RW,1,5,504,5.5,0.20%,22,1,England,7,NO,NO
+Dominic Calvert-Lewin,Everton,20,SS,1,3.5,343,5,0.30%,17,1,England,7,NO,YES
+Ademola Lookman,Everton,19,LW,1,5,1387,5.5,0.30%,16,1,England,7,NO,NO
+Matthew Pennington,Everton,22,CB,3,0.5,219,4,1.70%,9,1,England,7,NO,NO
+Jonjoe Kenny,Everton,20,RB,3,0.25,53,4.5,0.20%,1,1,England,7,NO,NO
+Muhamed Besic,Everton,24,DM,2,5,238,4.5,0.20%,0,2,Germany,7,NO,NO
+Davy Klaassen,Everton,24,AM,1,18,428,7.5,3.60%,0,2,Netherlands,7,NO,NO
+Sandro Ramirez,Everton,22,CF,1,10,373,7.5,2.10%,0,2,Spain,7,NO,NO
+Joel Coleman,Huddersfield,21,GK,4,0.25,36,4,2.40%,0,1,England,8,NO,NO
+Jonas Lossl,Huddersfield,28,GK,4,1.5,56,4.5,0.50%,0,2,Denmark,8,NO,NO
+Christopher Schindler,Huddersfield,27,CB,3,2,73,4.5,0.90%,0,2,Germany,8,NO,NO
+Chris Lowe,Huddersfield,28,LB,3,1.5,84,4.5,0.70%,0,2,Germany,8,NO,NO
+Tommy Smith,Huddersfield,25,RB,3,2,65,5,1.10%,0,1,England,8,NO,NO
+Michael Hefele,Huddersfield,26,CB,3,1.5,116,4.5,0.20%,0,2,Germany,8,NO,NO
+Martin Cranie,Huddersfield,30,CB,3,0.5,67,4,1.40%,0,1,England,8,NO,NO
+Jon Gorenc Stankovic,Huddersfield,21,CB,3,0.5,83,4,1.10%,0,2,Slovenia,8,NO,NO
+Mark Hudson,Huddersfield,35,CB,3,0.5,70,4,1.40%,0,1,England,8,NO,NO
+Mathias Jorgensen,Huddersfield,27,CB,3,2.5,107,4.5,0.20%,0,2,Denmark,8,NO,NO
+Scott Malone,Huddersfield,26,LB,3,0.75,81,4.5,0.10%,0,1,England,8,NO,NO
+Aaron Mooy,Huddersfield,26,CM,2,5,588,5.5,2.50%,0,4,Australia,8,NO,NO
+Rajiv van La Parra,Huddersfield,26,LW,1,2,174,5,0.30%,0,2,Netherlands,8,NO,NO
+Jonathan Hogg,Huddersfield,28,CM,2,1,75,4.5,0.30%,0,1,England,8,NO,NO
+Philip Billing,Huddersfield,21,CM,2,0.5,157,4.5,0.10%,0,2,Denmark,8,NO,NO
+Joe Lolley,Huddersfield,24,RW,1,0.25,63,4.5,0.10%,0,1,England,8,NO,NO
+Jack Payne,Huddersfield,25,CM,2,0.25,81,4.5,0.10%,0,1,England,8,NO,NO
+Dean Whitehead,Huddersfield,35,CM,2,0.25,161,4.5,0.10%,0,1,England,8,NO,NO
+Harry Bunn,Huddersfield,24,LW,1,0.5,85,4.5,0.10%,0,1,England,8,NO,NO
+Sean Scannell,Huddersfield,26,RW,1,0.5,85,4.5,0.10%,0,2,Ireland,8,NO,NO
+Elias Kachunga,Huddersfield,25,RW,1,3.5,231,6,0.60%,0,4,Congo DR,8,NO,NO
+Tom Ince,Huddersfield,25,RW,1,7,512,6,2.60%,0,1,England,8,NO,NO
+Kasey Palmer,Huddersfield,20,AM,1,0.75,220,5.5,0.20%,0,1,England,8,NO,NO
+Andy Williams,Huddersfield,26,CB,3,0.65,3,5,0.10%,0,3,Trinidad and Tobago,8,NO,NO
+Nahki Wells,Huddersfield,27,CF,1,5,247,5,0.60%,0,3,Bermuda,8,NO,NO
+Collin Quaner,Huddersfield,26,CF,1,1,126,4.5,1.60%,0,2,Germany,8,NO,NO
+Laurent Depoitre,Huddersfield,28,CF,1,3,212,5.5,0.30%,0,2,Belgium,8,NO,NO
+Steve Mounie,Huddersfield,22,CF,1,5.5,56,6,0.60%,0,1,England,8,NO,NO
+Jamie Vardy,Leicester+City,30,CF,1,15,2988,8.5,1.50%,161,1,England,9,NO,NO
+Riyad Mahrez,Leicester+City,26,RW,1,30,1753,8.5,1.70%,120,4,Algeria,9,NO,NO
+Kasper Schmeichel,Leicester+City,30,GK,4,10,1601,5,2.40%,109,2,Denmark,9,NO,NO
+Christian Fuchs,Leicester+City,31,LB,3,6,417,5,3.50%,104,2,Austria,9,NO,NO
+Marc Albrighton,Leicester+City,27,LM,2,6,347,5.5,1.10%,95,1,England,9,NO,NO
+Robert Huth,Leicester+City,32,CB,3,5,748,5,0.60%,88,2,Germany,9,NO,NO
+Danny Simpson,Leicester+City,30,RB,3,5,428,4.5,5.50%,85,1,England,9,NO,NO
+Islam Slimani,Leicester+City,29,CF,1,25,1581,7,0.70%,83,4,Algeria,9,NO,YES
+Harry Maguire,Leicester+City,24,CB,3,8,488,5,1.50%,71,1,England,9,NO,NO
+Danny Drinkwater,Leicester+City,27,CM,2,9,714,5,0.20%,69,1,England,9,NO,NO
+Wes Morgan,Leicester+City,33,CB,3,3,649,4.5,3.30%,63,3,Jamaica,9,NO,NO
+Shinji Okazaki,Leicester+City,31,CF,1,7,607,5.5,1.20%,63,4,Japan,9,NO,NO
+Wilfred Ndidi,Leicester+City,20,DM,2,14,821,5,0.50%,59,4,Nigeria,9,NO,YES
+Demarai Gray,Leicester+City,21,LW,1,9,593,5.5,1.10%,58,1,England,9,NO,NO
+Daniel Amartey,Leicester+City,22,DM,2,5,356,4.5,0.30%,53,4,Ghana,9,NO,NO
+Andy King,Leicester+City,28,CM,2,3,327,4.5,0.70%,41,2,Wales,9,NO,NO
+Ahmed Musa,Leicester+City,24,CF,1,17,742,6.5,1.50%,39,4,Nigeria,9,NO,YES
+Yohan Benalouane,Leicester+City,30,CB,3,1,305,4.5,0.10%,27,4,Tunisia,9,NO,NO
+Leonardo Ulloa,Leicester+City,30,CF,1,6,472,5,0.20%,24,2,Argentina,9,NO,NO
+Ben Chilwell,Leicester+City,20,LB,3,2.5,288,4.5,0.80%,19,1,England,9,NO,NO
+Nampalys Mendy,Leicester+City,25,DM,2,10,325,4.5,0.10%,6,2,France,9,NO,YES
+Ben Hamer,Leicester+City,29,GK,4,0.5,132,4.5,0.10%,0,1,England,9,NO,NO
+Molla Wague,Leicester+City,26,CB,3,1.5,171,4.5,0.00%,0,4,Mali,9,NO,NO
+Vicente Iborra,Leicester+City,29,DM,2,9,253,6,0.80%,0,2,Spain,9,NO,NO
+Roberto Firmino,Liverpool,25,SS,1,38,2196,8.5,20.30%,180,3,Brazil,10,YES,NO
+Philippe Coutinho,Liverpool,25,AM,1,45,2958,9,30.80%,171,3,Brazil,10,YES,NO
+Sadio Mane,Liverpool,25,LW,1,40,3219,9.5,5.30%,156,4,Senegal,10,YES,YES
+Georginio Wijnaldum,Liverpool,26,CM,2,28,1280,7,7.10%,149,2,Netherlands,10,YES,YES
+James Milner,Liverpool,31,CM,2,12,1824,6.5,10.40%,139,1,England,10,YES,NO
+Adam Lallana,Liverpool,29,AM,1,25,1808,7.5,6.40%,139,1,England,10,YES,NO
+Nathaniel Clyne,Liverpool,26,RB,3,21,602,5.5,4.50%,129,1,England,10,YES,NO
+Simon Mignolet,Liverpool,29,GK,4,12,721,5,1.60%,110,2,Belgium,10,YES,NO
+Dejan Lovren,Liverpool,28,CB,3,17,708,5.5,1.30%,106,2,Croatia,10,YES,NO
+Emre Can,Liverpool,23,DM,2,15,1253,5,6.60%,104,2,Germany,10,YES,NO
+Joel Matip,Liverpool,25,CB,3,25,1313,5.5,2.30%,97,2,Cameroon,10,YES,YES
+Divock Origi,Liverpool,22,CF,1,12,1092,7.5,0.40%,96,2,Belgium,10,YES,NO
+Jordan Henderson,Liverpool,27,CM,2,28,1236,5.5,1.80%,73,1,England,10,YES,NO
+Daniel Sturridge,Liverpool,27,CF,1,20,2042,8,4.30%,54,1,England,10,YES,NO
+Lucas Leiva,Liverpool,30,DM,2,7,998,4.5,0.30%,47,3,Brazil,10,YES,NO
+Ragnar Klavan,Liverpool,31,CB,3,3.5,875,4.5,0.40%,43,2,Estonia,10,YES,YES
+Mamadou Sakho,Liverpool,27,CB,3,15,934,5,0.10%,35,2,France,10,YES,NO
+Loris Karius,Liverpool,24,GK,4,8,1255,5,0.20%,32,2,Germany,10,YES,NO
+Trent Alexander-Arnold,Liverpool,18,RB,3,1.5,327,4.5,0.30%,15,2,England,10,YES,NO
+Alberto Moreno,Liverpool,25,LB,3,10,397,4.5,0.30%,8,2,Spain,10,YES,NO
+Ben Woodburn,Liverpool,17,LW,1,1.5,1241,4.5,0.10%,5,1,Wales,10,YES,NO
+Marko Grujic,Liverpool,21,CM,2,5,615,4.5,0.20%,4,2,Serbia,10,YES,NO
+Joe Gomez,Liverpool,20,CB,3,4,460,4.5,0.40%,0,1,England,10,YES,NO
+Sheyi Ojo,Liverpool,20,LW,1,2,383,5,0.10%,0,1,England,10,YES,NO
+Mohamed Salah,Liverpool,25,RW,1,35,1117,9,12.40%,0,4,Egypt,10,YES,NO
+Danny Ings,Liverpool,24,CF,1,8,748,5.5,0.10%,0,1,England,10,YES,NO
+Dominic Solanke,Liverpool,19,CF,1,2,671,5,2.00%,0,1,England,10,YES,NO
+Kevin De Bruyne,Manchester+City,26,AM,1,65,2252,10,17.50%,199,2,Belgium,11,YES,NO
+Sergio Aguero,Manchester+City,29,CF,1,65,4046,11.5,9.70%,175,3,Argentina,11,YES,NO
+Raheem Sterling,Manchester+City,22,LW,1,45,2074,8,3.80%,149,1,England,11,YES,NO
+Kyle Walker,Manchester+City,27,RB,3,30,1008,6.5,18.50%,142,1,England,11,YES,NO
+David Silva,Manchester+City,31,AM,1,30,1434,8,3.30%,130,2,Spain,11,YES,NO
+Leroy Sane,Manchester+City,21,LW,1,35,2302,8.5,8.80%,105,2,Germany,11,YES,YES
+Nicolas Otamendi,Manchester+City,29,CB,3,30,621,5.5,3.30%,100,3,Argentina,11,YES,NO
+Aleksandar Kolarov,Manchester+City,31,LB,3,10,633,5.5,1.10%,95,2,Serbia,11,YES,NO
+Yaya Toure,Manchester+City,34,CM,2,8,2318,6.5,2.50%,86,4,Cote d'Ivoire,11,YES,NO
+Fernandinho,Manchester+City,32,DM,2,18,595,5,0.80%,78,3,Brazil,11,YES,NO
+Claudio Bravo,Manchester+City,34,GK,4,8,436,5,1.20%,73,3,Chile,11,YES,YES
+Gabriel Jesus,Manchester+City,20,CF,1,30,4254,10.5,15.20%,67,3,Brazil,11,YES,YES
+John Stones,Manchester+City,23,CB,3,35,1078,5.5,2.30%,59,1,England,11,YES,YES
+Vincent Kompany,Manchester+City,31,CB,3,22,935,6,6.60%,57,2,Belgium,11,YES,NO
+Kelechi Iheanacho,Manchester+City,20,CF,1,15,1662,7,1.50%,52,4,Nigeria,11,YES,NO
+Ilkay Gundogan,Manchester+City,26,CM,2,30,1586,5.5,1.00%,41,2,Germany,11,YES,YES
+Fernando,Manchester+City,32,DM,2,18,338,4.5,0.40%,18,3,Brazil,11,YES,NO
+Fabian Delph,Manchester+City,27,CM,2,8,520,4.5,0.40%,13,1,England,11,YES,NO
+Ederson Moraes,Manchester+City,23,GK,4,22,297,5.5,4.50%,0,3,Brazil,11,YES,NO
+Bernardo Silva,Manchester+City,22,RW,1,40,1098,8,4.60%,0,2,Portugal,11,YES,NO
+Romelu Lukaku,Manchester+United,24,CF,1,50,3727,11.5,45.00%,221,2,Belgium,12,YES,NO
+David de Gea,Manchester+United,26,GK,4,40,2126,5.5,26.10%,136,2,Spain,12,YES,NO
+Antonio Valencia,Manchester+United,31,RB,3,10,1561,6.5,6.20%,120,3,Ecuador,12,YES,NO
+Paul Pogba,Manchester+United,24,CM,2,75,7435,8,19.50%,115,2,France,12,YES,YES
+Eric Bailly,Manchester+United,23,CB,3,30,1588,6,10.20%,105,4,Cote d'Ivoire,12,YES,YES
+Juan Mata,Manchester+United,29,AM,1,30,2280,7,3.50%,102,2,Spain,12,YES,NO
+Daley Blind,Manchester+United,27,LB,3,22,867,5.5,1.20%,98,2,Netherlands,12,YES,NO
+Ander Herrera,Manchester+United,27,CM,2,30,1603,5.5,7.70%,97,2,Spain,12,YES,NO
+Anthony Martial,Manchester+United,21,CF,1,30,2430,8,0.60%,95,2,France,12,YES,NO
+Marcos Rojo,Manchester+United,27,CB,3,18,1063,5.5,0.10%,77,3,Argentina,12,YES,NO
+Marcus Rashford,Manchester+United,19,CF,1,18,3668,7.5,4.80%,76,1,England,12,YES,NO
+Henrikh Mkhitaryan,Manchester+United,28,AM,1,35,3312,8,4.50%,73,4,Armenia,12,YES,YES
+Matteo Darmian,Manchester+United,27,RB,3,12,1640,5.5,0.30%,70,2,Italy,12,YES,NO
+Jesse Lingard,Manchester+United,24,LW,1,12,1939,6,0.70%,60,1,England,12,YES,NO
+Phil Jones,Manchester+United,25,CB,3,14,808,5,0.40%,55,1,England,12,YES,NO
+Chris Smalling,Manchester+United,27,CB,3,18,834,5.5,1.30%,52,1,England,12,YES,NO
+Marouane Fellaini,Manchester+United,29,CM,2,12,1498,5,0.20%,48,2,Belgium,12,YES,NO
+Luke Shaw,Manchester+United,22,LB,3,20,947,5,0.40%,45,1,England,12,YES,NO
+Michael Carrick,Manchester+United,35,DM,2,1.5,1789,4.5,1.80%,42,1,England,12,YES,NO
+Ashley Young,Manchester+United,32,LM,2,5,936,5,0.00%,26,1,England,12,YES,NO
+Sergio Romero,Manchester+United,30,GK,4,6,849,5,0.20%,23,3,Argentina,12,YES,NO
+Axel Tuanzebe,Manchester+United,19,CB,3,1,279,4,1.70%,14,1,England,12,YES,NO
+Timothy Fosu-Mensah,Manchester+United,19,DM,2,2.5,860,4.5,0.20%,9,2,Netherlands,12,YES,NO
+Joel Castro Pereira,Manchester+United,21,GK,4,0.1,395,4,1.00%,6,2,Portugal,12,YES,NO
+Victor Lindelof,Manchester+United,23,CB,3,22,950,5.5,17.00%,0,2,Sweden,12,YES,NO
+Rob Elliot,Newcastle+United,31,GK,4,1,134,4,13.50%,0,2,Ireland,13,NO,NO
+Karl Darlow,Newcastle+United,26,GK,4,4.5,235,4.5,1.10%,0,1,England,13,NO,NO
+DeAndre Yedlin,Newcastle+United,24,RB,3,5,764,4.5,5.20%,0,3,United States,13,NO,NO
+Ciaran Clark,Newcastle+United,27,CB,3,5,273,4.5,0.90%,0,2,Ireland,13,NO,NO
+Lascelles,Newcastle+United,27,CB,3,5,400,4.5,3.60%,0,1,England,13,NO,NO
+Paul Dummett,Newcastle+United,25,LB,3,3.5,177,4.5,1.00%,0,2,Wales,13,NO,NO
+Grant Hanley,Newcastle+United,25,CB,3,4.5,265,4,2.50%,0,2,Scotland,13,NO,NO
+Jesus Gamez,Newcastle+United,32,RB,3,2.5,186,4,2.30%,0,2,Spain,13,NO,NO
+Florian Lejeune,Newcastle+United,26,CB,3,5,65,4.5,1.00%,0,2,France,13,NO,NO
+Massadio Haidara,Newcastle+United,24,LB,3,1.5,114,4,0.50%,0,2,France,13,NO,NO
+Matt Ritchie,Newcastle+United,27,RM,2,9,566,6,4.20%,0,2,Scotland,13,NO,NO
+Jonjo Shelvey,Newcastle+United,25,CM,2,11,747,5.5,2.50%,0,1,England,13,NO,NO
+Mohamed Diame,Newcastle+United,30,CM,2,6,339,5,0.50%,0,4,Senegal,13,NO,NO
+Jack Colback,Newcastle+United,27,DM,2,5,181,4.5,1.10%,0,1,England,13,NO,NO
+Christian Atsu,Newcastle+United,25,RW,1,5,641,5,2.10%,0,4,Ghana,13,NO,NO
+Siem de Jong,Newcastle+United,28,AM,1,5.5,341,5,0.10%,0,2,Netherlands,13,NO,NO
+Rolando Aarons,Newcastle+United,21,LW,1,0.75,170,4.5,0.10%,0,1,England,13,NO,NO
+Dwight Gayle,Newcastle+United,26,CF,1,10,1351,6.5,11.40%,0,1,England,13,NO,NO
+Ayoze Perez,Newcastle+United,23,SS,1,8,368,5.5,1.60%,0,2,Spain,13,NO,NO
+Aleksandar Mitrovic,Newcastle+United,22,CF,1,10,781,5,2.50%,0,2,Serbia,13,NO,NO
+Daryl Murphy,Newcastle+United,34,CF,1,1.5,541,4.5,2.80%,0,2,Ireland,13,NO,NO
+Fraser Forster,Southampton,29,GK,4,15,548,5,7.30%,134,1,England,14,NO,NO
+Nathan Redmond,Southampton,23,RW,1,15,706,6.5,11.30%,126,1,England,14,NO,YES
+Ryan Bertrand,Southampton,27,LB,3,20,578,5.5,11.20%,123,1,England,14,NO,NO
+DuÃ…Â¡an TadiÃ„â€¡,Southampton,28,LW,1,17,458,6.5,4.90%,108,2,Portugal,14,NO,NO
+Cedric Soares,Southampton,25,RB,3,15,338,5,16.40%,102,2,Portugal,14,NO,NO
+James Ward-Prowse,Southampton,22,CM,2,15,416,5.5,2.20%,92,1,England,14,NO,NO
+Oriol Romeu,Southampton,25,DM,2,10,476,4.5,4.20%,80,2,Spain,14,NO,NO
+Maya Yoshida,Southampton,28,CB,3,5,317,5,1.10%,78,4,Japan,14,NO,NO
+Steven Davis,Southampton,32,CM,2,6,310,5,0.20%,77,2,Northern Ireland,14,NO,NO
+Virgil van Dijk,Southampton,26,CB,3,30,1102,5.5,4.00%,75,2,Netherlands,14,NO,NO
+Charlie Austin,Southampton,28,CF,1,13,874,6.5,2.10%,62,1,England,14,NO,NO
+Jack Stephens,Southampton,23,CB,3,3.5,249,5,0.40%,60,1,England,14,NO,NO
+Shane Long,Southampton,30,CF,1,9,703,6,0.30%,57,2,Ireland,14,NO,NO
+Sofiane Boufal,Southampton,23,AM,1,15,590,6,0.30%,40,4,Morocco,14,NO,YES
+Jordy Clasie,Southampton,26,DM,2,10,201,4.5,0.40%,38,2,Netherlands,14,NO,NO
+Pierre-Emile Hojbjerg,Southampton,21,CM,2,8,368,4.5,0.40%,38,2,Denmark,14,NO,YES
+Manolo Gabbiadini,Southampton,25,CF,1,15,2012,7,5.20%,38,2,Italy,14,NO,NO
+Sam McQueen,Southampton,22,LM,2,0.75,221,4.5,0.10%,23,1,England,14,NO,NO
+Matt Targett,Southampton,21,LB,3,3,110,4.5,0.20%,12,1,England,14,NO,NO
+Josh Sims,Southampton,20,RW,1,0.5,126,4.5,0.10%,12,1,England,14,NO,NO
+Jeremy Pied,Southampton,28,RM,2,3.5,136,4.5,0.10%,5,2,France,14,NO,YES
+Jason McCarthy,Southampton,21,CB,3,0.25,53,4.5,0.10%,0,1,England,14,NO,NO
+Jan Bednarek,Southampton,21,CB,3,0.5,9,4.5,0.40%,0,2,Poland,14,NO,NO
+Joe Allen,Stoke+City,27,CM,2,15,523,5.5,6.00%,118,2,Wales,15,NO,YES
+Marko ArnautoviÃ„â€¡,Stoke+City,28,LW,1,15,579,7,0.70%,117,1,England,15,NO,NO
+Lee Grant,Stoke+City,34,GK,4,1,480,4.5,1.20%,106,1,England,15,NO,YES
+Erik Pieters,Stoke+City,28,LB,3,7,134,5,1.30%,103,2,Netherlands,15,NO,NO
+Steven Fletcher,Stoke+City,30,CF,1,3,522,5,1.00%,103,2,Scotland,15,NO,NO
+Ryan Shawcross,Stoke+City,29,CB,3,11,281,5,1.00%,94,2,England,15,NO,NO
+Xherdan Shaqiri,Stoke+City,25,RW,1,15,1000,6,3.20%,80,2,Switzerland,15,NO,NO
+Peter Crouch,Stoke+City,36,CF,1,1.5,2656,5,2.90%,79,1,England,15,NO,NO
+Glenn Whelan,Stoke+City,33,DM,2,2.5,182,4.5,0.40%,62,2,Ireland,15,NO,NO
+Charlie Adam,Stoke+City,31,CM,2,3.5,561,5,0.10%,59,2,Scotland,15,NO,NO
+Geoff Cameron,Stoke+City,32,CB,3,3,260,4.5,0.50%,58,4,United States,15,NO,NO
+Glen Johnson,Stoke+City,32,RB,3,5,512,4.5,0.80%,56,1,England,15,NO,NO
+Mame Biram Diouf,Stoke+City,29,CF,1,7,310,5.5,0.40%,51,4,Senegal,15,NO,NO
+Ramadan Sobhi,Stoke+City,20,LW,1,5,461,5,1.10%,36,4,Egypt,15,NO,YES
+Marc Muniesa,Stoke+City,25,CB,3,3,172,4.5,0.20%,34,2,Spain,15,NO,NO
+Bojan KrkiÃ„â€¡,Stoke+City,26,SS,1,5,1325,5.5,0.20%,30,2,Spain,15,NO,NO
+Phil Bardsley,Stoke+City,32,RB,3,1.5,365,4.5,0.00%,27,2,Scotland,15,NO,NO
+Saido Berahino,Stoke+City,23,CF,1,15,841,6,0.80%,26,1,England,15,NO,NO
+Giannelli Imbula,Stoke+City,24,DM,2,12,238,4.5,0.20%,24,2,France,15,NO,NO
+Jack Butland,Stoke+City,24,GK,4,15,402,5,2.80%,20,1,England,15,NO,NO
+Ibrahim Afellay,Stoke+City,31,LM,2,3,461,5,0.00%,15,2,Netherlands,15,NO,NO
+Josh Tymon,Stoke+City,18,LB,3,1,120,4.5,0.10%,9,1,England,15,NO,NO
+Gylfi Sigurdsson,Swansea,27,AM,1,25,861,8.5,8.70%,181,2,Iceland,16,NO,NO
+Fernando Llorente,Swansea,32,CF,1,6,1423,7.5,0.70%,146,2,Spain,16,NO,YES
+Ã…Âukasz FabiaÃ…â€žski,Swansea,32,GK,4,9,285,4.5,6.20%,116,2,Poland,16,NO,NO
+Leroy Fer,Swansea,27,CM,2,8,411,5.5,0.60%,95,2,Netherlands,16,NO,YES
+Alfie Mawson,Swansea,23,CB,3,6,509,5,1.80%,94,1,England,16,NO,YES
+Kyle Naughton,Swansea,28,RB,3,5,170,4.5,2.00%,82,1,England,16,NO,NO
+Wayne Routledge,Swansea,32,LW,1,2.5,264,5.5,0.10%,74,1,England,16,NO,NO
+Federico Fernandez,Swansea,28,CB,3,9,116,4.5,0.40%,63,3,Argentina,16,NO,NO
+Martin Olsson,Swansea,29,LB,3,5,458,5,0.30%,52,2,Sweden,16,NO,NO
+Tom Carroll,Swansea,25,CM,2,6,432,4.5,4.30%,52,1,England,16,NO,NO
+Ki Sung-yueng,Swansea,28,DM,2,7,478,5,0.00%,41,4,South Korea,16,NO,NO
+Jordan Ayew,Swansea,25,CF,1,7.5,676,5,2.00%,39,4,Ghana,16,NO,NO
+Modou Barrow,Swansea,24,RW,1,3,437,5,0.10%,34,4,The Gambia,16,NO,NO
+Leon Britton,Swansea,34,CM,2,1,218,4.5,0.10%,32,1,England,16,NO,NO
+Stephen Kingsley,Swansea,22,LB,3,0.75,168,4.5,0.20%,29,2,Scotland,16,NO,NO
+Ãƒâ‚¬ngel Rangel,Swansea,34,RB,3,1,137,4,18.80%,26,2,Spain,16,NO,NO
+Luciano Narsingh,Swansea,26,RW,1,5,448,5,0.10%,25,2,Netherlands,16,NO,NO
+Jay Fulton,Swansea,23,CM,2,0.5,104,4.5,0.10%,19,2,Scotland,16,NO,NO
+Jefferson Montero,Swansea,27,LW,1,4.5,187,5,0.10%,18,3,Ecuador,16,NO,NO
+Mike van der Hoorn,Swansea,24,CB,3,2,154,4.5,0.10%,16,2,Netherlands,16,NO,YES
+Nathan Dyer,Swansea,29,RW,1,3.5,313,4.5,0.10%,12,1,England,16,NO,NO
+Oliver McBurnie,Swansea,21,CF,1,0.25,149,4.5,0.70%,5,2,Scotland,16,NO,NO
+Kristoffer Nordfeldt,Swansea,28,GK,4,1.5,82,4,1.70%,3,2,Sweden,16,NO,NO
+Roque Mesa,Swansea,28,CM,2,12,110,4.5,0.90%,0,2,Spain,16,NO,NO
+Tammy Abraham,Swansea,19,CF,1,8,1227,5.5,3.30%,0,1,England,16,NO,NO
+Dele Alli,Tottenham,21,CM,2,45,4626,9.5,38.60%,225,1,England,17,YES,NO
+Harry Kane,Tottenham,23,CF,1,60,4161,12.5,35.10%,224,1,England,17,YES,NO
+Christian Eriksen,Tottenham,25,AM,1,40,1130,9.5,12.00%,218,2,Denmark,17,YES,NO
+Son Heung-min,Tottenham,25,LW,1,30,2185,8,1.60%,174,4,South Korea,17,YES,NO
+Hugo Lloris,Tottenham,30,GK,4,24,847,5.5,12.60%,143,2,France,17,YES,NO
+Jan Vertonghen,Tottenham,30,CB,3,28,511,6,9.00%,126,2,Belgium,17,YES,NO
+Toby Alderweireld,Tottenham,28,CB,3,35,756,6,13.30%,120,2,Belgium,17,YES,NO
+Victor Wanyama,Tottenham,26,DM,2,25,1002,5,3.10%,103,4,Kenya,17,YES,YES
+Eric Dier,Tottenham,23,DM,2,25,1239,5,3.50%,93,1,England,17,YES,NO
+Ben Davies,Tottenham,24,LB,3,12,396,5.5,1.80%,90,2,Wales,17,YES,NO
+Danny Rose,Tottenham,27,LB,3,28,848,6.5,0.60%,84,1,England,17,YES,NO
+Mousa Dembele,Tottenham,30,CM,2,18,1161,5,1.80%,76,2,Belgium,17,YES,NO
+Vincent Janssen,Tottenham,23,CF,1,13,1135,7.5,0.10%,55,2,Netherlands,17,YES,YES
+Kieran Trippier,Tottenham,26,RB,3,10,525,5.5,17.30%,51,1,England,17,YES,NO
+Moussa Sissokho,Tottenham,27,CM,2,20,1162,5.5,0.30%,43,2,France,17,YES,YES
+Harry Winks,Tottenham,21,CM,2,4,806,5,0.00%,30,1,England,17,YES,NO
+Erik Lamela,Tottenham,25,RW,1,25,672,6.5,0.10%,28,3,Argentina,17,YES,NO
+Michel Vorm,Tottenham,33,GK,4,4,252,5,0.10%,17,2,Netherlands,17,YES,NO
+Georges-Kevin N%27Koudou,Tottenham,22,LW,1,7,510,5.5,0.10%,8,2,France,17,YES,YES
+Kevin Wimmer,Tottenham,24,CB,3,7,355,4.5,0.30%,2,2,Austria,17,YES,NO
+Ãƒâ€°tienne Capoue,Watford,29,DM,2,9,412,5.5,8.00%,131,2,France,18,NO,NO
+Troy Deeney,Watford,29,CF,1,11,1141,6.5,3.40%,130,1,England,18,NO,NO
+Heurelho Gomes,Watford,36,GK,4,1,439,4.5,2.20%,113,3,Brazil,18,NO,NO
+Jose Holebas,Watford,33,LB,3,2,345,5,0.60%,87,2,Greece,18,NO,NO
+Miguel Britos,Watford,32,CB,3,3.5,131,4.5,0.60%,71,3,Uruguay,18,NO,NO
+Sebastian Prodl,Watford,30,CB,3,4,169,4.5,0.80%,67,2,Austria,18,NO,NO
+Nordin Amrabat,Watford,30,LW,1,4.5,295,5,0.10%,65,4,Morocco,18,NO,NO
+YounÃƒÂ¨s Kaboul,Watford,31,CB,3,2.5,263,4.5,0.10%,57,2,France,18,NO,YES
+Tom Cleverley,Watford,27,CM,2,8,703,5,0.20%,55,1,England,18,NO,NO
+Daryl Janmaat,Watford,27,RB,3,7,242,5,0.30%,50,2,Netherlands,18,NO,YES
+Valon Behrami,Watford,32,DM,2,2.5,237,4.5,0.40%,48,2,Switzerland,18,NO,NO
+Roberto Pereyra,Watford,26,AM,1,15,398,6,0.10%,43,3,Argentina,18,NO,YES
+Stefano Okaka,Watford,27,CF,1,6,708,5.5,0.20%,43,2,Italy,18,NO,YES
+Abdoulaye Doucoure,Watford,24,CM,2,6,124,5,0.00%,38,2,France,18,NO,NO
+Kabasele,Watford,26,CB,3,5.5,177,4.5,0.20%,35,2,Belgium,18,NO,YES
+Craig Cathcart,Watford,28,CB,3,4,128,4.5,0.00%,31,2,Northern Ireland,18,NO,NO
+Isaac Success,Watford,21,LW,1,4,474,5.5,0.10%,28,4,Nigeria,18,NO,YES
+Adrian Mariappa,Watford,30,CB,3,1,201,4,5.40%,15,3,Jamaica,18,NO,YES
+Nathaniel Chalobah,Watford,22,DM,2,5,977,4.5,2.30%,12,1,England,18,NO,NO
+Mauro Zarate,Watford,30,SS,1,2,473,5.5,0.00%,8,3,Argentina,18,NO,NO
+Costel Pantilimon,Watford,30,GK,4,3,268,4.5,0.20%,2,2,Romania,18,NO,NO
+Kiko Femenia,Watford,26,RB,3,4,74,4.5,0.30%,0,2,Spain,18,NO,NO
+Steven Berghuis,Watford,25,RW,1,5.5,164,5,0.10%,0,2,Netherlands,18,NO,NO
+Will Hughes,Watford,22,CM,2,8,258,5,0.60%,0,1,England,18,NO,NO
+Gareth McAuley,West+Brom,37,CB,3,1,458,5,11.80%,131,2,Northern Ireland,19,NO,NO
+Salomon Rondon,West+Brom,27,CF,1,15,502,6.5,2.00%,118,3,Venezuela,19,NO,NO
+Matt Phillips,West+Brom,26,RW,1,9,454,6,5.60%,115,2,Scotland,19,NO,YES
+Ben Foster,West+Brom,34,GK,4,4,484,4.5,20.70%,113,1,England,19,NO,NO
+Nacer Chadli,West+Brom,27,LW,1,15,570,6,2.40%,110,2,Belgium,19,NO,YES
+Craig Dawson,West+Brom,27,RB,3,6,215,5,6.00%,102,1,England,19,NO,NO
+Chris Brunt,West+Brom,32,LM,2,4,242,5.5,0.80%,99,2,Northern Ireland,19,NO,NO
+James Morrison,West+Brom,31,CM,2,5,238,5.5,0.00%,84,2,Scotland,19,NO,NO
+Jonny Evans,West+Brom,29,CB,3,7,375,5,1.60%,79,2,Northern Ireland,19,NO,NO
+Jake Livermore,West+Brom,27,DM,2,7,564,5,0.20%,77,1,England,19,NO,NO
+Allan Nyom,West+Brom,29,RB,3,4.5,236,5,0.30%,74,4,Cameroon,19,NO,YES
+Jay Rodriguez,West+Brom,27,CF,1,10,472,6,2.90%,73,1,England,19,NO,NO
+Claudio Yacob,West+Brom,30,DM,2,4,165,4.5,0.40%,54,3,Argentina,19,NO,NO
+James McClean,West+Brom,28,LW,1,3,454,5,0.20%,52,2,Ireland,19,NO,NO
+Hal Robson-Kanu,West+Brom,28,LW,1,2.5,766,5,0.70%,52,2,Wales,19,NO,YES
+Jonathan Leko,West+Brom,18,RW,1,1.5,169,4.5,0.20%,12,1,England,19,NO,NO
+Sam Field,West+Brom,19,CM,2,0.25,15,4.5,0.10%,9,1,England,19,NO,NO
+Boaz Myhill,West+Brom,34,GK,4,1.5,100,4,5.30%,0,2,Wales,19,NO,NO
+Ahmed Hegazy,West+Brom,26,CB,3,1,82,4.5,1.30%,0,4,Egypt,19,NO,NO
+Robert Snodgrass,West+Ham,29,RW,1,8,1210,6,6.50%,133,2,Scotland,20,NO,NO
+Manuel Lanzini,West+Ham,24,AM,1,15,493,7,7.20%,133,3,Argentina,20,NO,NO
+Michail Antonio,West+Ham,27,RW,1,18,1142,7.5,0.50%,132,1,England,20,NO,NO
+Winston Reid,West+Ham,29,CB,3,10,338,5,0.40%,102,4,New Zealand,20,NO,NO
+Jose Fonte,West+Ham,33,CB,3,7,867,5,2.10%,98,2,Portugal,20,NO,YES
+Andre Ayew,West+Ham,27,LW,1,18,845,7,3.40%,89,4,Ghana,20,NO,YES
+Cheikhou Kouyate,West+Ham,27,DM,2,12,284,5,0.10%,79,4,Senegal,20,NO,NO
+Mark Noble,West+Ham,30,CM,2,7,425,5.5,0.10%,71,1,England,20,NO,NO
+Darren Randolph,West+Ham,30,GK,4,2.5,459,4.5,0.40%,69,2,Ireland,20,NO,NO
+James Collins,West+Ham,33,CB,3,2,187,4.5,0.90%,69,2,Wales,20,NO,NO
+Andy Carroll,West+Ham,28,CF,1,10,1212,6,0.40%,69,1,England,20,NO,NO
+Adrian,West+Ham,30,GK,4,8,266,4.5,0.80%,64,2,Spain,20,NO,NO
+Aaron Cresswell,West+Ham,27,LB,3,12,380,5,1.30%,60,1,England,20,NO,NO
+Pedro Obiang,West+Ham,25,CM,2,9,286,4.5,0.30%,55,2,Spain,20,NO,NO
+Sofiane Feghouli,West+Ham,27,RW,1,12,394,5.5,0.20%,55,4,Algeria,20,NO,YES
+Angelo Ogbonna,West+Ham,29,CB,3,9,247,4.5,1.10%,45,2,Italy,20,NO,NO
+Pablo Zabaleta,West+Ham,32,RB,3,7,698,5,2.70%,45,3,Argentina,20,NO,NO
+Edimilson Fernandes,West+Ham,21,CM,2,5,288,4.5,0.40%,38,2,Switzerland,20,NO,YES
+Arthur Masuaku,West+Ham,23,LB,3,7,199,4.5,0.20%,34,4,Congo DR,20,NO,YES
+Sam Byram,West+Ham,23,RB,3,4.5,198,4.5,0.30%,29,1,England,20,NO,NO
+Ashley Fletcher,West+Ham,21,CF,1,1,412,4.5,5.90%,16,1,England,20,NO,YES
+Diafra Sakho,West+Ham,27,CF,1,10,214,5.5,0.10%,12,4,Senegal,20,NO,NO
